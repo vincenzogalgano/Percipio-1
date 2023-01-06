@@ -16,3 +16,8 @@ Print the last word with the most letters along with today’s date
 Square the previous number and print it out using a different DOM element
 
 LAB 3
+
+Create an array that returns the numbers 1-9 within a try…catch block
+Using the spread operator, create a new array and insert the next three numbers in sequence
+Sort and print the original array in reverse, but only the last four digits
+De-structure the first and last elements of first array and sum those values
